@@ -1,0 +1,93 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+  border: 1px solid #e6dbdb;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 767px) {
+  .post {
+    border: none;
+  }
+}
+
+.post-profile-container {
+  display: flex;
+  background-color: #ffffff;
+  padding: 15px;
+}
+
+.post-profile {
+  width: 50px;
+  border-radius: 50%;
+  border: 2px solid rgb(212, 52, 52);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.post-username {
+  color: #000000;
+  font-weight: bold;
+}
+
+.post-img {
+  width: 100%;
+}
+
+.post-buttons {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.post-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.post-icon {
+  font-size: 35px;
+  color: #080606b6;
+  margin-right: 7px;
+}
+
+.post-unlike-icon {
+  font-size: 35px;
+  color: #080606b6;
+  margin-right: 7px;
+}
+
+.post-likes {
+  color: #000000;
+  font-weight: 600;
+  font-size: 15px;
+  padding-left: 22px;
+}
+
+.post-caption {
+  color: #000000c2;
+  padding-left: 22px;
+}
+
+.post-comment-list {
+  padding-left: 22px;
+  list-style-type: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.post-comment-username {
+  margin-right: 10px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.post-comment {
+  color: #000000d6;
+}
+
+.post-created-at {
+  padding-left: 22px;
+  color: #a19999;
+}

@@ -1,0 +1,91 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.slick-container {
+  margin-top: 10px;
+  max-width: 1100px;
+  width: 80%;
+}
+
+@media screen and (max-width: 767px) {
+  .slick-container {
+    margin-top: 10px;
+  }
+}
+
+.logo-image {
+  margin: 0px 10px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+
+@media screen and (max-width: 767px) {
+  .logo-image {
+    margin: 0px 10px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+  }
+}
+
+.story-username {
+  font-size: 12px;
+}
+
+@media screen and (min-width: 768px) {
+  .story-username {
+    font-size: 16px;
+  }
+}
+
+.slick-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.user-story-loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10px;
+  font-family: 'Roboto';
+}
+
+.user-story-failure-img {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.failure-heading-stories {
+  font-size: 15px;
+}
+
+.failure-button-stories {
+  height: 30px;
+  width: 80px;
+  color: #ffffff;
+  background-color: rgb(85, 153, 230);
+  border-width: 0px;
+  border-radius: 5px;
+}
