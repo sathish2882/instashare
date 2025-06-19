@@ -157,9 +157,9 @@ class MyProfile extends Component {
             ))}
           </ul>
         ) : (
-          <div className="my_profile_no_post_div">
-            <BiCamera className="cameraIcon" />
-            <h1 className="no_posts_heading">No Posts Yet</h1>
+          <div className="no-posts-container">
+            <BiCamera className="no-posts-icon" />
+            <h1 className="no-posts-text">No Posts Yet</h1>
           </div>
         )}
       </div>

@@ -13,6 +13,7 @@ const SearchContext = React.createContext({
   isLoading: false,
   resetSearchButton: () => {},
   resetFailure: () => {},
+  clearSearchInput: () => {},
 })
 
 export default SearchContext

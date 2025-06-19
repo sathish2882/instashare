@@ -23,6 +23,14 @@ class App extends Component {
     isLoading: false,
   }
 
+  clearSearchInput = () => {
+    this.setState({
+      searchInput: '',
+      searchedPosts: [],
+      isSearchIconClicked: false,
+    })
+  }
+
   setSearchInput = searchInput => {
     this.setState({searchInput})
   }
@@ -114,6 +122,7 @@ class App extends Component {
           setLoading: this.setLoading,
           resetSearchButton: this.resetSearchButton,
           resetFailure: this.resetFailure,
+          clearSearchInput: this.clearSearchInput,
         }}
       >
         <>

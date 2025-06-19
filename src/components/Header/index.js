@@ -14,12 +14,15 @@ class Header extends Component {
     showSearch: false,
   }
 
-  onBar = () => {
-    this.setState({isMobileView: true, showSearch: false})
-  }
-
   onCancel = () => {
     this.setState({isMobileView: false})
+  }
+
+  onBar = () => {
+    this.setState(prev => ({
+      isMobileView: !prev.isMobileView,
+      showSearch: false,
+    }))
   }
 
   onLogout = () => {
@@ -47,7 +50,12 @@ class Header extends Component {
         {value => {
           const {setSearchInput, searchInput, setSearchedPosts} = value
           const {setLoading, setFailure, resetFailure} = value
-          const {resetSearchButton} = value
+          const {resetSearchButton, clearSearchInput} = value
+
+          const onCancel = () => {
+            clearSearchInput()
+            this.setState({isMobileView: false})
+          }
 
           const changeSearchText = async event => {
             setSearchInput(event.target.value)
@@ -206,7 +214,7 @@ class Header extends Component {
 
                     <li>
                       <button
-                        onClick={this.onCancel}
+                        onClick={onCancel}
                         className="cancel-btn"
                         type="button"
                       >
