@@ -50,6 +50,13 @@ Users can log in, view posts, search by captions, access profile details, and en
 
 ---
 
+## 📸 Mobile Screenshots
+
+| Home Page | Profile Page |
+|-----------|--------------|
+| ![Home]([screenshots/mobile-home.png](https://github.com/user-attachments/assets/f363c2ec-6156-44c2-824c-5c9c477d5c9a) | ![Profile](screenshots/mobile-profile.png) |![1000490750]()
+
+
 ## 📁 Folder Structure
 
 instaShare/
@@ -67,3 +74,4 @@ instaShare/
 ├── index.js
 ├── App.css
 └── README.md
+
