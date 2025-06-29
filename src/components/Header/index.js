@@ -19,10 +19,10 @@ class Header extends Component {
   }
 
   onBar = () => {
-    this.setState(prev => ({
-      isMobileView: !prev.isMobileView,
+    this.setState({
+      isMobileView: true,
       showSearch: false,
-    }))
+    })
   }
 
   onLogout = () => {

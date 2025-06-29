@@ -25,6 +25,7 @@
   border: 2px solid rgb(212, 52, 52);
   margin-left: 10px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .post-username {
@@ -44,6 +45,7 @@
 .post-btn {
   background-color: transparent;
   border-width: 0px;
+  cursor: pointer;
 }
 
 .post-icon {
@@ -56,6 +58,7 @@
   font-size: 35px;
   color: #080606b6;
   margin-right: 7px;
+  cursor: pointer;
 }
 
 .post-likes {

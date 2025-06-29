@@ -54,7 +54,7 @@ const SearchPostItem = props => (
                 testid="unLikeIcon"
                 type="button"
               >
-                <FcLike className="post-unlike" />
+                <FcLike className="post-icon" />
               </button>
             ) : (
               <button
@@ -63,7 +63,7 @@ const SearchPostItem = props => (
                 testid="likeIcon"
                 type="button"
               >
-                <BsHeart className="post-icon" />
+                <BsHeart className="post-unlike-icon" />
               </button>
             )}
             <button className="post-btn" type="button">

@@ -50,6 +50,7 @@
 .bar-btn {
   background-color: transparent;
   border-width: 0px;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
@@ -92,6 +93,7 @@
 .cancel {
   margin-top: 5px;
   font-size: 25px;
+  
 }
 
 .logout-btn-mobile {
@@ -101,11 +103,13 @@
   height: 35px;
   width: 90px;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 .cancel-btn {
   background-color: transparent;
   border-width: 0px;
+  cursor: pointer;
 }
 .search-container {
   display: flex;
@@ -135,6 +139,7 @@
   border-bottom-right-radius: 5px;
   width: 30px;
   padding-top: 1px;
+  cursor: pointer;
 }
 
 .large-container {
