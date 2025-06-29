@@ -18,11 +18,9 @@ Users can log in, view posts, search by captions, access profile details, and en
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Project Demo Video
 
-📽️ [Watch Demo Video](#)  
-*(https://drive.google.com/file/d/1CNOD_misHAGDVPoTGEIhRKYeTETAMkuH/view?usp=drivesdk)*
-
+📽️ [Watch the demo video on Google Drive](https://drive.google.com/file/d/1CNOD_misHAGDVPoTGEIhRKYeTETAMkuH/view?usp=drivesdk)
 ---
 
 
