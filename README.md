@@ -52,7 +52,7 @@ Users can log in, view posts, search by captions, access profile details, and en
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots 
 
 | Home Page | Profile Page |
 |-----------|--------------|
