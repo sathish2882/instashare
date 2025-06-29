@@ -50,12 +50,21 @@ Users can log in, view posts, search by captions, access profile details, and en
 
 ---
 
-## 📸 Mobile Screenshots
+## ✨ Features
+
+- ✅ JWT-based authentication
+- 🏠 Home feed with posts
+- 🔍 Caption-based search
+- 📱 Responsive UI
+...
+
+## 📸 Screenshots
 
 | Home Page | Profile Page |
 |-----------|--------------|
-| ![Home]([[screenshots/mobile-home.png](https://github.com/user-attachments/assets/f363c2ec-6156-44c2-824c-5c9c477d5c9a)]() | ![Profile](![1000490755](https://github.com/user-attachments/assets/e22826f2-bfe8-4fbf-9642-093956bd3236)
-) |![1000490750]()
+| ![Home](![1000490750](https://github.com/user-attachments/assets/c9d3104e-d920-4a77-9cd5-dca125639d09)
+) | ![Profile](![1000490751](https://github.com/user-attachments/assets/93982cbd-5359-4e53-86e1-d15b86f042d0)
+) |
 
 
 ## 📁 Folder Structure
