@@ -55,7 +55,7 @@ Users can log in, view posts, search by captions, access profile details, and en
 | Login Screen | Home Feed | Search |
 |--------------|-----------|--------|
 | ![Login](![1000490749](https://github.com/user-attachments/assets/8dc19dc0-a54c-4c69-9a63-beeda6cb3870)
-) | ![Home](![1000490750](https://github.com/user-attachments/assets/39c1b3d3-8bac-4d40-9d51-57770855d82d)
+) | ![Home](![1000490750] (https://github.com/user-attachments/assets/39c1b3d3-8bac-4d40-9d51-57770855d82d)
 ) | ![Search](![1000490757](https://github.com/user-attachments/assets/15372fa8-2ba9-40da-889a-104bab7e6150)
 ) |
 
