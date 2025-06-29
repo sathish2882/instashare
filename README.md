@@ -57,8 +57,8 @@ Users can log in, view posts, search by captions, access profile details, and en
 | Home Page | Profile Page |
 |-----------|--------------|
 | ![Home](![1000490750](https://github.com/user-attachments/assets/2dc79b1c-c91e-4904-99d0-b699388a0c49)
-) | ![Profile](![1000490751](https://github.com/user-attachments/assets/8b3ff3d7-6603-42c3-b2b3-992ffef1b575)
-) |
+)| ![Profile](![1000490751](https://github.com/user-attachments/assets/8b3ff3d7-6603-42c3-b2b3-992ffef1b575)
+)|
 
 > Images hosted via GitHub attachments.
 
