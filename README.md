@@ -51,18 +51,19 @@ Users can log in, view posts, search by captions, access profile details, and en
 - 💡 Error messages & loading indicators
 
 ---
+## 📱 Mobile Screenshots
+| Login Screen | Home Feed | Search |
+|--------------|-----------|--------|
+| ![Login](![1000490749](https://github.com/user-attachments/assets/8dc19dc0-a54c-4c69-9a63-beeda6cb3870)
+) | ![Home](![1000490750](https://github.com/user-attachments/assets/39c1b3d3-8bac-4d40-9d51-57770855d82d)
+) | ![Search](![1000490757](https://github.com/user-attachments/assets/15372fa8-2ba9-40da-889a-104bab7e6150)
+) |
 
-## 📸 Screenshots 
-
-| Home Page | Profile Page |
-|-----------|--------------|
-| ![Home](![1000490750](https://github.com/user-attachments/assets/2dc79b1c-c91e-4904-99d0-b699388a0c49)
-)| ![Profile](![1000490751](https://github.com/user-attachments/assets/8b3ff3d7-6603-42c3-b2b3-992ffef1b575)
-)|
-
-> Images hosted via GitHub attachments.
-
----
+| Post Details | Profile Page |
+|--------------|--------------|
+| ![Post](![1000490758](https://github.com/user-attachments/assets/3b12647d-fae0-4b1f-b2c7-f7ca596627ac)
+) | ![Profile](![1000490751](https://github.com/user-attachments/assets/a6d19fc4-47b4-4b62-9c41-4f3240a0050f)
+) |
 
 ## 📁 Folder Structure
 
