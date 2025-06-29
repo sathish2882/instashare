@@ -53,18 +53,14 @@ Users can log in, view posts, search by captions, access profile details, and en
 --- 
 
 ## 📱 Mobile Screenshots
+
 | Login Screen | Home Feed | Search |
 |--------------|-----------|--------|
-| ![Login](![1000490749](https://github.com/user-attachments/assets/a6e62356-3c01-4644-bae7-76edd8af50a1)
-) | ![Home](![1000490750](https://github.com/user-attachments/assets/2da9e798-c166-46d8-9c4a-c7eab8bf2672)
-) | ![Search](![1000490757](https://github.com/user-attachments/assets/de70e89c-c092-47a7-8bea-73103977c5b1)
-) |
+| ![Login](https://github.com/user-attachments/assets/a6e62356-3c01-4644-bae7-76edd8af50a1) | ![Home](https://github.com/user-attachments/assets/2da9e798-c166-46d8-9c4a-c7eab8bf2672) | ![Search](https://github.com/user-attachments/assets/de70e89c-c092-47a7-8bea-73103977c5b1) |
 
 | Post Details | Profile Page |
 |--------------|--------------|
-| ![Post](![1000490758](https://github.com/user-attachments/assets/48468524-b196-40bf-b0dd-dcefded66d4c)
-) | ![Profile](![1000490751](https://github.com/user-attachments/assets/7fedbdcf-acbf-46ea-8c66-5fc4b7377e8d)
-) |
+| ![Post](https://github.com/user-attachments/assets/48468524-b196-40bf-b0dd-dcefded66d4c) | ![Profile](https://github.com/user-attachments/assets/7fedbdcf-acbf-46ea-8c66-5fc4b7377e8d) |
 
 ## 📁 Folder Structure
 
