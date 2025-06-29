@@ -1,4 +1,4 @@
-# 📸 InstaShare
+# 📸 InstaShare-Instagram Clone 
 
 **InstaShare** is a responsive photo-sharing web application inspired by Instagram.  
 Users can log in, view posts, search by captions, access profile details, and enjoy a smooth, modern UI across devices.
@@ -11,19 +11,20 @@ Users can log in, view posts, search by captions, access profile details, and en
 
 ---
 
-## 🎥 Demo Video
-
-📽️ [Watch Demo Video](#)  
-*(Upload your screen recording to YouTube or Google Drive and paste the link here)*
-
----
-
 ## 🔐 Login Credentials (for demo)
 
 - **Username**: `rahul`
 - **Password**: `rahul@2021`
 
 ---
+
+## 🎥 Demo Video
+
+📽️ [Watch Demo Video](#)  
+*(https://drive.google.com/file/d/1CNOD_misHAGDVPoTGEIhRKYeTETAMkuH/view?usp=drivesdk)*
+
+---
+
 
 ## 🛠️ Tech Stack
 
